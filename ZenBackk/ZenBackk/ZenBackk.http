@@ -1,0 +1,6 @@
+@ZenBackk_HostAddress = http://localhost:5220
+
+GET {{ZenBackk_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
