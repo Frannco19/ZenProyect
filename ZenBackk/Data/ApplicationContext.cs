@@ -37,7 +37,7 @@ namespace Data
 
             modelBuilder.Entity<Product>()
                 .HasOne(p => p.Category)
-                .WithMany() // Si quieres que la Category tenga una lista de productos, usarías .WithMany(c => c.Products)
+                .WithMany(c => c.Products) // si Category tiene una ICollection<Product> Products
                 .HasForeignKey(p => p.CategoryId)
                 .OnDelete(DeleteBehavior.Restrict);
 

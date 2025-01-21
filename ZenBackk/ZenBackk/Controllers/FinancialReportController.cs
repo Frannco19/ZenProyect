@@ -1,6 +1,8 @@
-﻿using Data.Entities;
+﻿using Common.DTOs.Request;
+using Data.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Service;
+using Service.interfaces;
 
 namespace ZenBackk.Controllers
 {
@@ -8,48 +10,78 @@ namespace ZenBackk.Controllers
     [Route("api/[controller]")]
     public class FinancialReportController : ControllerBase
     {
-        private readonly FinancialReportService _financialReportService;
+        private readonly IFinancialReportService _financialReportService;
 
-        public FinancialReportController(FinancialReportService financialReportService)
+        public FinancialReportController(IFinancialReportService financialReportService)
         {
             _financialReportService = financialReportService;
         }
 
-        [HttpPost]
-        public IActionResult Create(FinancialReport financialReport)
+        /// <summary>
+        /// Crea un reporte ingresando manualmente los importes.
+        /// </summary>
+        [HttpPost("manual")]
+        public IActionResult CreateManualReport([FromBody] CreateFinancialReportDto dto)
         {
-            _financialReportService.AddFinancialReport(financialReport);
-            return Ok("Financial report created successfully.");
+            if (!ModelState.IsValid) return BadRequest(ModelState);
+
+            var report = _financialReportService.CreateManualFinancialReport(dto);
+            return Ok(report);
+        }
+
+        /// <summary>
+        /// Genera un reporte a partir de las ventas registradas en [start, end].
+        /// </summary>
+        [HttpPost("generate")]
+        public IActionResult GenerateReport([FromQuery] DateTime start, [FromQuery] DateTime end)
+        {
+            var report = _financialReportService.GenerateFinancialReport(start, end);
+            return Ok(report);
         }
 
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
-            var report = _financialReportService.GetFinancialReportById(id);
-            if (report == null) return NotFound("Financial report not found.");
-            return Ok(report);
+            var fr = _financialReportService.GetFinancialReportById(id);
+            if (fr == null) return NotFound("Report not found.");
+            return Ok(fr);
         }
 
         [HttpGet]
         public IActionResult GetAll()
         {
-            var reports = _financialReportService.GetAllFinancialReports();
-            return Ok(reports);
+            var allReports = _financialReportService.GetAllFinancialReports();
+            return Ok(allReports);
         }
 
-        [HttpPut]
-        public IActionResult Update(FinancialReport financialReport)
+        [HttpPut("{id}")]
+        public IActionResult Update(int id, [FromBody] CreateFinancialReportDto dto)
         {
-            _financialReportService.UpdateFinancialReport(financialReport);
-            return Ok("Financial report updated successfully.");
+            if (!ModelState.IsValid) return BadRequest(ModelState);
+
+            var updated = _financialReportService.UpdateFinancialReport(id, dto);
+            if (updated == null) return NotFound("Report not found.");
+
+            return Ok(updated);
         }
 
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
-            _financialReportService.DeleteFinancialReport(id);
-            return Ok("Financial report deleted successfully.");
+            var result = _financialReportService.DeleteFinancialReport(id);
+            if (!result) return NotFound("Report not found.");
+            return NoContent();
+        }
+
+        /// <summary>
+        /// Cierra (bloquea) un reporte para evitar futuras modificaciones.
+        /// </summary>
+        [HttpPost("{id}/close")]
+        public IActionResult CloseReport(int id)
+        {
+            var success = _financialReportService.CloseFinancialReport(id);
+            if (!success) return NotFound("Report not found.");
+            return Ok("Reporte cerrado y bloqueado para ediciones.");
         }
     }
-
 }

@@ -38,5 +38,7 @@ namespace Data.Entities
         [Required]
         [Column(TypeName = "decimal(18,2)")]
         public decimal TotalIncome { get; set; } // Total Income
+
+        public bool IsClosed { get; set; } = false;
     }
 }

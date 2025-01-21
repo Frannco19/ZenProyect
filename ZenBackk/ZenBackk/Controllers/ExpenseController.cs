@@ -1,6 +1,8 @@
-﻿using Data.Entities;
+﻿using Common.DTOs.Request;
+using Data.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Service;
+using Service.interfaces;
 
 namespace ZenBackk.Controllers
 {
@@ -8,18 +10,20 @@ namespace ZenBackk.Controllers
     [Route("api/[controller]")]
     public class ExpenseController : ControllerBase
     {
-        private readonly ExpenseService _expenseService;
+        private readonly IExpenseService _expenseService;
 
-        public ExpenseController(ExpenseService expenseService)
+        public ExpenseController(IExpenseService expenseService)
         {
             _expenseService = expenseService;
         }
 
         [HttpPost]
-        public IActionResult Create(Expense expense)
+        public IActionResult Create([FromBody] CreateExpenseDto dto)
         {
-            _expenseService.AddExpense(expense);
-            return Ok("Expense created successfully.");
+            if (!ModelState.IsValid) return BadRequest(ModelState);
+
+            var response = _expenseService.CreateExpense(dto);
+            return Ok(response);
         }
 
         [HttpGet("{id}")]
@@ -37,18 +41,24 @@ namespace ZenBackk.Controllers
             return Ok(expenses);
         }
 
-        [HttpPut]
-        public IActionResult Update(Expense expense)
+        [HttpPut("{id}")]
+        public IActionResult Update(int id, [FromBody] CreateExpenseDto dto)
         {
-            _expenseService.UpdateExpense(expense);
-            return Ok("Expense updated successfully.");
+            if (!ModelState.IsValid) return BadRequest(ModelState);
+
+            var updatedExpense = _expenseService.UpdateExpense(id, dto);
+            if (updatedExpense == null)
+                return NotFound("Expense not found.");
+
+            return Ok(updatedExpense);
         }
 
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
-            _expenseService.DeleteExpense(id);
-            return Ok("Expense deleted successfully.");
+            var result = _expenseService.DeleteExpense(id);
+            if (!result) return NotFound("Expense not found.");
+            return NoContent();
         }
     }
 

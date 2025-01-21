@@ -34,8 +34,6 @@ namespace Data.Entities
         [Required]
         public int CategoryId { get; set; } // Clave foránea
 
-        // Propiedad de navegación
-        [ForeignKey("CategoryId")]
         public Category Category { get; set; }
 
         // Ubicación en la tienda
