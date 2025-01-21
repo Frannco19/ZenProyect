@@ -1,0 +1,16 @@
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
+*.obj
+*.dll
+*.exe
+/bin/
+/obj/
+*.nupkg
+*.snupkg
+*.log
+*.tlog
+*.userosscache
+*.vs/
