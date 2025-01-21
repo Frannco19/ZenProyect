@@ -1,7 +1,216 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11BB2C20-92C1-4E12-B275-4D07D9BB6E5B}|ZenBackk\\ZenBackk.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\zenbackk\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BB2C20-92C1-4E12-B275-4D07D9BB6E5B}|ZenBackk\\ZenBackk.csproj|solutionrelative:zenbackk\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1483DB48-5EFC-4375-988C-5D76BA4CD90B}|Service\\Service.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1483DB48-5EFC-4375-988C-5D76BA4CD90B}|Service\\Service.csproj|solutionrelative:service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1483DB48-5EFC-4375-988C-5D76BA4CD90B}|Service\\Service.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\service\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1483DB48-5EFC-4375-988C-5D76BA4CD90B}|Service\\Service.csproj|solutionrelative:service\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1483DB48-5EFC-4375-988C-5D76BA4CD90B}|Service\\Service.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\service\\interfaces\\iexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1483DB48-5EFC-4375-988C-5D76BA4CD90B}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1483DB48-5EFC-4375-988C-5D76BA4CD90B}|Service\\Service.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1483DB48-5EFC-4375-988C-5D76BA4CD90B}|Service\\Service.csproj|solutionrelative:service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1483DB48-5EFC-4375-988C-5D76BA4CD90B}|Service\\Service.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\service\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1483DB48-5EFC-4375-988C-5D76BA4CD90B}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1483DB48-5EFC-4375-988C-5D76BA4CD90B}|Service\\Service.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\service\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1483DB48-5EFC-4375-988C-5D76BA4CD90B}|Service\\Service.csproj|solutionrelative:service\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BB2C20-92C1-4E12-B275-4D07D9BB6E5B}|ZenBackk\\ZenBackk.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\zenbackk\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BB2C20-92C1-4E12-B275-4D07D9BB6E5B}|ZenBackk\\ZenBackk.csproj|solutionrelative:zenbackk\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BB2C20-92C1-4E12-B275-4D07D9BB6E5B}|ZenBackk\\ZenBackk.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\zenbackk\\controllers\\financialreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BB2C20-92C1-4E12-B275-4D07D9BB6E5B}|ZenBackk\\ZenBackk.csproj|solutionrelative:zenbackk\\controllers\\financialreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|solutionrelative:data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\data\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|solutionrelative:data\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120501F1-E79B-44EE-8B97-D7A97ADF6412}|Common\\Common.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\common\\dtos\\response\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120501F1-E79B-44EE-8B97-D7A97ADF6412}|Common\\Common.csproj|solutionrelative:common\\dtos\\response\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120501F1-E79B-44EE-8B97-D7A97ADF6412}|Common\\Common.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\common\\dtos\\response\\paymentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120501F1-E79B-44EE-8B97-D7A97ADF6412}|Common\\Common.csproj|solutionrelative:common\\dtos\\response\\paymentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120501F1-E79B-44EE-8B97-D7A97ADF6412}|Common\\Common.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\common\\dtos\\request\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120501F1-E79B-44EE-8B97-D7A97ADF6412}|Common\\Common.csproj|solutionrelative:common\\dtos\\request\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120501F1-E79B-44EE-8B97-D7A97ADF6412}|Common\\Common.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\common\\dtos\\request\\saledetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120501F1-E79B-44EE-8B97-D7A97ADF6412}|Common\\Common.csproj|solutionrelative:common\\dtos\\request\\saledetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120501F1-E79B-44EE-8B97-D7A97ADF6412}|Common\\Common.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\common\\dtos\\request\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120501F1-E79B-44EE-8B97-D7A97ADF6412}|Common\\Common.csproj|solutionrelative:common\\dtos\\request\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120501F1-E79B-44EE-8B97-D7A97ADF6412}|Common\\Common.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\common\\dtos\\request\\createsaledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120501F1-E79B-44EE-8B97-D7A97ADF6412}|Common\\Common.csproj|solutionrelative:common\\dtos\\request\\createsaledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120501F1-E79B-44EE-8B97-D7A97ADF6412}|Common\\Common.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\common\\dtos\\request\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120501F1-E79B-44EE-8B97-D7A97ADF6412}|Common\\Common.csproj|solutionrelative:common\\dtos\\request\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|solutionrelative:data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\data\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|solutionrelative:data\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120501F1-E79B-44EE-8B97-D7A97ADF6412}|Common\\Common.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\common\\dtos\\response\\categoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120501F1-E79B-44EE-8B97-D7A97ADF6412}|Common\\Common.csproj|solutionrelative:common\\dtos\\response\\categoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120501F1-E79B-44EE-8B97-D7A97ADF6412}|Common\\Common.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\common\\dtos\\response\\saleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120501F1-E79B-44EE-8B97-D7A97ADF6412}|Common\\Common.csproj|solutionrelative:common\\dtos\\response\\saleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120501F1-E79B-44EE-8B97-D7A97ADF6412}|Common\\Common.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\common\\dtos\\response\\saledetailresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120501F1-E79B-44EE-8B97-D7A97ADF6412}|Common\\Common.csproj|solutionrelative:common\\dtos\\response\\saledetailresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BB2C20-92C1-4E12-B275-4D07D9BB6E5B}|ZenBackk\\ZenBackk.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\zenbackk\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BB2C20-92C1-4E12-B275-4D07D9BB6E5B}|ZenBackk\\ZenBackk.csproj|solutionrelative:zenbackk\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\data\\repositories\\salerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|solutionrelative:data\\repositories\\salerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\data\\repositories\\interfaces\\isalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|solutionrelative:data\\repositories\\interfaces\\isalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1483DB48-5EFC-4375-988C-5D76BA4CD90B}|Service\\Service.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\service\\interfaces\\isaleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1483DB48-5EFC-4375-988C-5D76BA4CD90B}|Service\\Service.csproj|solutionrelative:service\\interfaces\\isaleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|solutionrelative:data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\data\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|solutionrelative:data\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\data\\entities\\saledetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|solutionrelative:data\\entities\\saledetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\data\\entities\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|solutionrelative:data\\entities\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\data\\entities\\shelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|solutionrelative:data\\entities\\shelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120501F1-E79B-44EE-8B97-D7A97ADF6412}|Common\\Common.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\common\\enums\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120501F1-E79B-44EE-8B97-D7A97ADF6412}|Common\\Common.csproj|solutionrelative:common\\enums\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|solutionrelative:data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|solutionrelative:data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|solutionrelative:data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\data\\repositories\\saledetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|solutionrelative:data\\repositories\\saledetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\data\\repositories\\financialreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|solutionrelative:data\\repositories\\financialreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\data\\repositories\\expenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|solutionrelative:data\\repositories\\expenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\data\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|solutionrelative:data\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\data\\repositories\\interfaces\\isaledetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|solutionrelative:data\\repositories\\interfaces\\isaledetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\data\\repositories\\interfaces\\ifinancialreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|solutionrelative:data\\repositories\\interfaces\\ifinancialreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\data\\repositories\\interfaces\\iexpenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|solutionrelative:data\\repositories\\interfaces\\iexpenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|solutionrelative:data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\data\\entities\\financialreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|solutionrelative:data\\entities\\financialreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\data\\entities\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|solutionrelative:data\\entities\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BB2C20-92C1-4E12-B275-4D07D9BB6E5B}|ZenBackk\\ZenBackk.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\zenbackk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BB2C20-92C1-4E12-B275-4D07D9BB6E5B}|ZenBackk\\ZenBackk.csproj|solutionrelative:zenbackk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Migrations\\20250120210715_UpdateProductCategoryRelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20250120210715_UpdateProductCategoryRelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1483DB48-5EFC-4375-988C-5D76BA4CD90B}|Service\\Service.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\service\\interfaces\\isaledetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1483DB48-5EFC-4375-988C-5D76BA4CD90B}|Service\\Service.csproj|solutionrelative:service\\interfaces\\isaledetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1483DB48-5EFC-4375-988C-5D76BA4CD90B}|Service\\Service.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\service\\interfaces\\ifinancialreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1483DB48-5EFC-4375-988C-5D76BA4CD90B}|Service\\Service.csproj|solutionrelative:service\\interfaces\\ifinancialreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\data\\migrations\\20250119185622_inicialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B94C5-31B4-42AA-A013-425E12A64D94}|Data\\Data.csproj|solutionrelative:data\\migrations\\20250119185622_inicialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BB2C20-92C1-4E12-B275-4D07D9BB6E5B}|ZenBackk\\ZenBackk.csproj|c:\\users\\franco\\desktop\\proyectozen\\zenbackk\\zenbackk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11BB2C20-92C1-4E12-B275-4D07D9BB6E5B}|ZenBackk\\ZenBackk.csproj|solutionrelative:zenbackk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +218,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -28,8 +237,629 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Service\\ProductService.cs",
+              "RelativeToolTip": "Service\\ProductService.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAywJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:53:22.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\ZenBackk\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ZenBackk\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\ZenBackk\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ZenBackk\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwv0gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:41:09.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Service\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Service\\CategoryService.cs",
+              "RelativeToolTip": "Service\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T04:06:17.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\ZenBackk\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ZenBackk\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\ZenBackk\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ZenBackk\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAUwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T03:57:28.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Service\\interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Service\\interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Service\\interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "Service\\interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:36:39.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SaleService.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Service\\SaleService.cs",
+              "RelativeDocumentMoniker": "Service\\SaleService.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Service\\SaleService.cs",
+              "RelativeToolTip": "Service\\SaleService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAcwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:54:34.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Service\\interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Service\\interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Service\\interfaces\\IProductService.cs",
+              "RelativeToolTip": "Service\\interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAywBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:37:01.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IExpenseService.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Service\\interfaces\\IExpenseService.cs",
+              "RelativeDocumentMoniker": "Service\\interfaces\\IExpenseService.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Service\\interfaces\\IExpenseService.cs",
+              "RelativeToolTip": "Service\\interfaces\\IExpenseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T20:53:09.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FinancialReportController.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\ZenBackk\\Controllers\\FinancialReportController.cs",
+              "RelativeDocumentMoniker": "ZenBackk\\Controllers\\FinancialReportController.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\ZenBackk\\Controllers\\FinancialReportController.cs",
+              "RelativeToolTip": "ZenBackk\\Controllers\\FinancialReportController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:54:21.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Repositories\\interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Repositories\\interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:45:35.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Common\\DTOs\\Response\\ProductResponseDto.cs",
+              "RelativeDocumentMoniker": "Common\\DTOs\\Response\\ProductResponseDto.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Common\\DTOs\\Response\\ProductResponseDto.cs",
+              "RelativeToolTip": "Common\\DTOs\\Response\\ProductResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:34:21.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaymentResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Common\\DTOs\\Response\\PaymentResponseDto.cs",
+              "RelativeDocumentMoniker": "Common\\DTOs\\Response\\PaymentResponseDto.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Common\\DTOs\\Response\\PaymentResponseDto.cs",
+              "RelativeToolTip": "Common\\DTOs\\Response\\PaymentResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:21:20.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA2wEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:47:09.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Common\\DTOs\\Request\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "Common\\DTOs\\Request\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Common\\DTOs\\Request\\CreateProductDto.cs",
+              "RelativeToolTip": "Common\\DTOs\\Request\\CreateProductDto.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:38:58.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PaymentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Common\\DTOs\\Request\\PaymentDto.cs",
+              "RelativeDocumentMoniker": "Common\\DTOs\\Request\\PaymentDto.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Common\\DTOs\\Request\\PaymentDto.cs",
+              "RelativeToolTip": "Common\\DTOs\\Request\\PaymentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:19:29.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateSaleDto.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Common\\DTOs\\Request\\CreateSaleDto.cs",
+              "RelativeDocumentMoniker": "Common\\DTOs\\Request\\CreateSaleDto.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Common\\DTOs\\Request\\CreateSaleDto.cs",
+              "RelativeToolTip": "Common\\DTOs\\Request\\CreateSaleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:18:26.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Common\\DTOs\\Request\\CreateCategoryDto.cs",
+              "RelativeDocumentMoniker": "Common\\DTOs\\Request\\CreateCategoryDto.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Common\\DTOs\\Request\\CreateCategoryDto.cs",
+              "RelativeToolTip": "Common\\DTOs\\Request\\CreateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:32:51.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SaleDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Common\\DTOs\\Request\\SaleDetailDto.cs",
+              "RelativeDocumentMoniker": "Common\\DTOs\\Request\\SaleDetailDto.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Common\\DTOs\\Request\\SaleDetailDto.cs",
+              "RelativeToolTip": "Common\\DTOs\\Request\\SaleDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:18:52.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Repositories\\interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Repositories\\interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:44:58.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Common\\DTOs\\Response\\CategoryResponseDto.cs",
+              "RelativeDocumentMoniker": "Common\\DTOs\\Response\\CategoryResponseDto.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Common\\DTOs\\Response\\CategoryResponseDto.cs",
+              "RelativeToolTip": "Common\\DTOs\\Response\\CategoryResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:33:21.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SaleDetailResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Common\\DTOs\\Response\\SaleDetailResponseDto.cs",
+              "RelativeDocumentMoniker": "Common\\DTOs\\Response\\SaleDetailResponseDto.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Common\\DTOs\\Response\\SaleDetailResponseDto.cs",
+              "RelativeToolTip": "Common\\DTOs\\Response\\SaleDetailResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:21:00.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:46:24.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SaleController.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\ZenBackk\\Controllers\\SaleController.cs",
+              "RelativeDocumentMoniker": "ZenBackk\\Controllers\\SaleController.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\ZenBackk\\Controllers\\SaleController.cs",
+              "RelativeToolTip": "ZenBackk\\Controllers\\SaleController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA2wDsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:55:14.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SaleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Repositories\\SaleRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\SaleRepository.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Repositories\\SaleRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\SaleRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:35:01.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SaleResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Common\\DTOs\\Response\\SaleResponseDto.cs",
+              "RelativeDocumentMoniker": "Common\\DTOs\\Response\\SaleResponseDto.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Common\\DTOs\\Response\\SaleResponseDto.cs",
+              "RelativeToolTip": "Common\\DTOs\\Response\\SaleResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:20:34.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ISaleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Repositories\\interfaces\\ISaleRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\interfaces\\ISaleRepository.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Repositories\\interfaces\\ISaleRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\interfaces\\ISaleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:46:01.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ISaleService.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Service\\interfaces\\ISaleService.cs",
+              "RelativeDocumentMoniker": "Service\\interfaces\\ISaleService.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Service\\interfaces\\ISaleService.cs",
+              "RelativeToolTip": "Service\\interfaces\\ISaleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:23:46.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Payment.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Entities\\Payment.cs",
+              "RelativeToolTip": "Data\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:50:30.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Shelf.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Entities\\Shelf.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Shelf.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Entities\\Shelf.cs",
+              "RelativeToolTip": "Data\\Entities\\Shelf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:25:08.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Common\\Enums\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "Common\\Enums\\PaymentMethod.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Common\\Enums\\PaymentMethod.cs",
+              "RelativeToolTip": "Common\\Enums\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:39:04.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Entities\\Category.cs",
+              "RelativeToolTip": "Data\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:55:45.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:48:11.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Entities\\Sale.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Sale.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Entities\\Sale.cs",
+              "RelativeToolTip": "Data\\Entities\\Sale.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA4wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:33:28.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "Data\\ApplicationContext.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAQwE0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T20:54:29.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SaleDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Entities\\SaleDetail.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\SaleDetail.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Entities\\SaleDetail.cs",
+              "RelativeToolTip": "Data\\Entities\\SaleDetail.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:33:50.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FinancialReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Repositories\\FinancialReportRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\FinancialReportRepository.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Repositories\\FinancialReportRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\FinancialReportRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:47:10.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ExpenseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Repositories\\ExpenseRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\ExpenseRepository.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Repositories\\ExpenseRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\ExpenseRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:46:52.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SaleDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Repositories\\SaleDetailRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\SaleDetailRepository.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Repositories\\SaleDetailRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\SaleDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAzwBkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:34:59.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Entities\\Product.cs",
+              "RelativeToolTip": "Data\\Entities\\Product.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwCoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T22:30:28.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Repositories\\interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Repositories\\interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:46:11.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ISaleDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Repositories\\interfaces\\ISaleDetailRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\interfaces\\ISaleDetailRepository.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Repositories\\interfaces\\ISaleDetailRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\interfaces\\ISaleDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:45:47.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IFinancialReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Repositories\\interfaces\\IFinancialReportRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\interfaces\\IFinancialReportRepository.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Repositories\\interfaces\\IFinancialReportRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\interfaces\\IFinancialReportRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:45:25.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IExpenseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Repositories\\interfaces\\IExpenseRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\interfaces\\IExpenseRepository.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Repositories\\interfaces\\IExpenseRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\interfaces\\IExpenseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:44:59.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Entities\\Expense.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Expense.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Entities\\Expense.cs",
+              "RelativeToolTip": "Data\\Entities\\Expense.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T22:34:02.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FinancialReport.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Entities\\FinancialReport.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\FinancialReport.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Entities\\FinancialReport.cs",
+              "RelativeToolTip": "Data\\Entities\\FinancialReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T22:34:33.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Entities\\User.cs",
+              "RelativeToolTip": "Data\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T02:41:29.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\ZenBackk\\Program.cs",
+              "RelativeDocumentMoniker": "ZenBackk\\Program.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\ZenBackk\\Program.cs",
+              "RelativeToolTip": "ZenBackk\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T20:57:26.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20250120210715_UpdateProductCategoryRelation.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Migrations\\20250120210715_UpdateProductCategoryRelation.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250120210715_UpdateProductCategoryRelation.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Migrations\\20250120210715_UpdateProductCategoryRelation.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250120210715_UpdateProductCategoryRelation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:07:15.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ISaleDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Service\\interfaces\\ISaleDetailService.cs",
+              "RelativeDocumentMoniker": "Service\\interfaces\\ISaleDetailService.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Service\\interfaces\\ISaleDetailService.cs",
+              "RelativeToolTip": "Service\\interfaces\\ISaleDetailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T20:53:12.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IFinancialReportService.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Service\\interfaces\\IFinancialReportService.cs",
+              "RelativeDocumentMoniker": "Service\\interfaces\\IFinancialReportService.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Service\\interfaces\\IFinancialReportService.cs",
+              "RelativeToolTip": "Service\\interfaces\\IFinancialReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T20:52:36.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20250119185622_InicialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Migrations\\20250119185622_InicialMigration.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250119185622_InicialMigration.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\Data\\Migrations\\20250119185622_InicialMigration.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250119185622_InicialMigration.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA2wAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:56:23.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\ZenBackk\\appsettings.json",
+              "RelativeDocumentMoniker": "ZenBackk\\appsettings.json",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\ProyectoZen\\ZenBackk\\ZenBackk\\appsettings.json",
+              "RelativeToolTip": "ZenBackk\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-19T15:27:25.904Z"
             }
           ]
         }
